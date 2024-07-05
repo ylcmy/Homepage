@@ -1,0 +1,10 @@
+site_name: My site
+site_url: https://ylc.org/mysite
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: lime
+  font:
+    text: Roboto
+    code: Roboto Mono
